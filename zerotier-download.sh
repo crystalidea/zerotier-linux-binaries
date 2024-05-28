@@ -1,4 +1,4 @@
-ZT_VERSION=1.12.2
+ZT_VERSION=1.14.0
 ZT_BIN_ARCHIVE=zerotier_x86_64_$ZT_VERSION.tar.gz
 
 if cat /proc/cpuinfo | grep -q 'ARMv8'; then
